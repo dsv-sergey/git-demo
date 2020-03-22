@@ -6,3 +6,5 @@ I am fine
 I am new branch
 
 next merge
+
+new line
