@@ -8,3 +8,5 @@ I am new branch
 next merge
 
 new line
+
+new conflict
