@@ -9,4 +9,4 @@ next merge
 
 new line
 
-new conflict
+without conflict
